@@ -8,12 +8,13 @@
   </p>
 </blockquote>
 
-Welcome to my GitHub profile. I'm a dreamer and enthusiastic student with a strong desire to learn. I'm motivated by the numerous possibilities that data science and machine learning offer for different purposes. I'm excited about how this knowledge can contribute to the world in the future.
+Welcome to my GitHub profile. I'm a dreamer and an enthusiastic student with a strong desire to learn. I'm motivated by the numerous possibilities that data science and machine learning offer for various purposes. I'm excited about how this knowledge can contribute to the world in the future. Currently, I am studying Industrial Engineering and applying for a Master's in Data Science at the University of Chile.
 
 ### 🚀 Experience
 
 - Programming Languages: Python
 - Soft Skills: Excellent communication, collaboration, and public speaking
+- Others tools: R Studio, SQL, MongoDB.
 
 ### 💡 Interests
 
@@ -26,7 +27,7 @@ I'm deeply interested in:
 
 Apart from coding, I enjoy:
 
-- Practicing Kickbocing.
+- Practicing Kickboxing.
 - Reading books and expanding my knowledge.
 - Spending time with friends.
 - writing differents types of texts.
